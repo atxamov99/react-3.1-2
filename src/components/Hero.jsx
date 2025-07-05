@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import HeroImg from '../assets/hero.jpg'; // o‘zing joylashtirgan rasm
+import HeroImg from '../assets/Hero.jpg'; // o‘zing joylashtirgan rasm
 
 const Hero = () => {
   const { t } = useTranslation();
